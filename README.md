@@ -1,4 +1,4 @@
-http-c-drake.github.io-
+c-drake.github.io
 =======================
 
 My Personal Repo
